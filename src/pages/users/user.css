@@ -1,0 +1,23 @@
+.body-info {
+    border-right: 1px solid;
+}
+
+.form-detail {
+    min-height: 190px;
+}
+
+form {
+    padding-bottom: 20px;
+}
+
+.hover:hover span {
+    display: none;
+}
+
+.hover:hover .button-action{
+    display: block;
+}
+
+.button-action {
+    display: none;
+}

@@ -1,0 +1,11 @@
+.header {
+    height: 60px;
+    border-bottom: 1px solid;
+}
+
+.header-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+}

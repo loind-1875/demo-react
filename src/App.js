@@ -1,14 +1,12 @@
 import React from 'react';
-import Header from './components/layouts/header';
-import Body from './components/layouts/body';
+import User from './pages/users/user';
 
 function App() {
-  return (
-    <div className="App">
-      <Header/>
-      <Body/>
-    </div>
-  );
+    return (
+        <div className="App container">
+            <User/>
+        </div>
+    );
 }
 
 export default App;
